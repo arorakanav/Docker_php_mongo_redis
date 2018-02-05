@@ -13,7 +13,7 @@
 * ### MonogoDB - /localhost:27017
 * ### Redis -  /localhost:6379
 
-# Commands to run 
+## Commands to run 
 
 to build the application
  ``` 
@@ -27,5 +27,4 @@ this will open the commanf prompt of centos7 to run the apace and php aserver
 ```
 ./setup.sh
 ```
-
-## To run the php app on apache make changes to index.php
+## * To run the php app on apache make changes to index.php
